@@ -6,3 +6,4 @@ text = page.read().decode("utf-8")
 price = text[234:238]
 
 print(price)
+6=
